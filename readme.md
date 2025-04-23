@@ -480,3 +480,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - LangChain for the excellent framework for working with LLMs
 - Kuku FM for inspiration on audio storytelling formats
 - The open-source community for valuable tools and libraries
+
+---
+
+Developed with ❤️ by [dasdebanna](https://github.com/dasdebanna)
